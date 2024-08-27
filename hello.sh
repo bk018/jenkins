@@ -1,2 +1,4 @@
-echo -e '#!/bin/bash\n\necho "Hello, World!"' > hello.sh
-chmod +x hello.sh
+#!/bin/bash
+
+echo "hello bharath koraboina"
+echo "welcome to jenkins"
